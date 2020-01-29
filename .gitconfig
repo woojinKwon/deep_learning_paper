@@ -1,0 +1,14 @@
+[core]
+	editor = vim
+	longpaths = true
+[user]
+	email = kwj6355@hanyang.ac.kr
+[alias]
+	l = log --graph --abbrev-commit --decorate --format=format:'%C(cyan)%h%C(reset) - %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(yellow)%d%C(reset)' --all
+	co = checkout
+	br = branch
+	st = status
+	fe = fetch
+	df = diff
+	pl = pull
+	ps = push
